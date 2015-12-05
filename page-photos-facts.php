@@ -63,7 +63,7 @@ get_header(); ?>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a href="index.html"><img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/logo2.png" alt="Big Cat Rescue"></a>
+                    <a href="index.html"><img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/logo2.png" alt="Big Cat Rescue"></a>
                 </div><!-- navbar-header -->
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
@@ -99,14 +99,14 @@ get_header(); ?>
                     <div class="cbp-item great">
                         <div class="cbp-caption">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Jaguar.jpg" alt="Jaguar">
+                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Jaguar.jpg" alt="Jaguar">
                             </div>
                             <div class="cbp-caption-activeWrap">
                                 <div class="cbp-l-caption-alignCenter">
                                     <div class="cbp-l-caption-body">
 
                                         <a href="#" class="cbp-l-caption-buttonLeft" target="_blank">Learn More</a>
-                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Jaguar.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Jaguar<br>">view larger</a>
+                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Jaguar.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Jaguar<br>">view larger</a>
                                     </div>
                                 </div>
                             </div>
@@ -118,14 +118,14 @@ get_header(); ?>
                     <div class="cbp-item great">
                         <div class="cbp-caption">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Leopard.jpg" alt="Leopard">
+                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Leopard.jpg" alt="Leopard">
                             </div>
                             <div class="cbp-caption-activeWrap">
                                 <div class="cbp-l-caption-alignCenter">
                                     <div class="cbp-l-caption-body">
                                         
                                         <a href="#" class="cbp-l-caption-buttonLeft" target="_blank">Learn More</a>
-                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Leopard.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Leopard<br>">view larger</a>
+                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Leopard.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Leopard<br>">view larger</a>
                                     </div>
                                 </div>
                             </div>
@@ -137,14 +137,14 @@ get_header(); ?>
                     <div class="cbp-item great">
                         <div class="cbp-caption">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Lion.jpg" alt="Lion">
+                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Lion.jpg" alt="Lion">
                             </div>
                             <div class="cbp-caption-activeWrap">
                                 <div class="cbp-l-caption-alignCenter">
                                     <div class="cbp-l-caption-body">
                                         
                                         <a href="#" class="cbp-l-caption-buttonLeft" target="_blank">Learn More</a>
-                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Lion.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Lion<br>">view larger</a>
+                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Lion.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Lion<br>">view larger</a>
                                     </div>
                                 </div>
                             </div>
@@ -156,14 +156,14 @@ get_header(); ?>
                     <div class="cbp-item great">
                         <div class="cbp-caption">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Liger.jpg" alt="Liger">
+                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Liger.jpg" alt="Liger">
                             </div>
                             <div class="cbp-caption-activeWrap">
                                 <div class="cbp-l-caption-alignCenter">
                                     <div class="cbp-l-caption-body">
                                         
                                         <a href="#" class="cbp-l-caption-buttonLeft" target="_blank">Learn More</a>
-                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Liger.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Liger<br>">view larger</a>
+                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Liger.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Liger<br>">view larger</a>
                                     </div>
                                 </div>
                             </div>
@@ -175,14 +175,14 @@ get_header(); ?>
                     <div class="cbp-item great">
                         <div class="cbp-caption">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Snow-Leopard.jpg" alt="Snow-Leopard">
+                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Snow-Leopard.jpg" alt="Snow-Leopard">
                             </div>
                             <div class="cbp-caption-activeWrap">
                                 <div class="cbp-l-caption-alignCenter">
                                     <div class="cbp-l-caption-body">
                                         
                                         <a href="#" class="cbp-l-caption-buttonLeft" target="_blank">Learn More</a>
-                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Snow-Leopard.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Snow Leopard<br>">view larger</a>
+                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Snow-Leopard.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Snow Leopard<br>">view larger</a>
                                     </div>
                                 </div>
                             </div>
@@ -194,14 +194,14 @@ get_header(); ?>
                     <div class="cbp-item great">
                         <div class="cbp-caption">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Tiger.jpg" alt="Tiger">
+                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Tiger.jpg" alt="Tiger">
                             </div>
                             <div class="cbp-caption-activeWrap">
                                 <div class="cbp-l-caption-alignCenter">
                                     <div class="cbp-l-caption-body">
                                         
                                         <a href="#" class="cbp-l-caption-buttonLeft" target="_blank">Learn More</a>
-                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Tiger.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Tiger<br>">view larger</a>
+                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Tiger.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Tiger<br>">view larger</a>
                                     </div>
                                 </div>
                             </div>
@@ -213,14 +213,14 @@ get_header(); ?>
                     <div class="cbp-item lesser">
                         <div class="cbp-caption">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Bob-Cat.jpg" alt="Lynx">
+                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Bob-Cat.jpg" alt="Lynx">
                             </div>
                             <div class="cbp-caption-activeWrap">
                                 <div class="cbp-l-caption-alignCenter">
                                     <div class="cbp-l-caption-body">
                                         
                                         <a href="#" class="cbp-l-caption-buttonLeft" target="_blank">Learn More</a>
-                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Bob-Cat.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Lynx<br>">view larger</a>
+                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Bob-Cat.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Lynx<br>">view larger</a>
                                     </div>
                                 </div>
                             </div>
@@ -232,14 +232,14 @@ get_header(); ?>
                     <div class="cbp-item lesser">
                         <div class="cbp-caption">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Black-footed-Cat.jpg" alt="Black footed Cat">
+                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Black-footed-Cat.jpg" alt="Black footed Cat">
                             </div>
                             <div class="cbp-caption-activeWrap">
                                 <div class="cbp-l-caption-alignCenter">
                                     <div class="cbp-l-caption-body">
                                         
                                         <a href="#" class="cbp-l-caption-buttonLeft" target="_blank">Learn More</a>
-                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Black-footed-Cat.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Black Footed Cat<br>">view larger</a>
+                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Black-footed-Cat.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Black Footed Cat<br>">view larger</a>
                                     </div>
                                 </div>
                             </div>
@@ -251,14 +251,14 @@ get_header(); ?>
                     <div class="cbp-item lesser">
                         <div class="cbp-caption">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Clouded-Leopard.jpg" alt="Clouded Leopard">
+                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Clouded-Leopard.jpg" alt="Clouded Leopard">
                             </div>
                             <div class="cbp-caption-activeWrap">
                                 <div class="cbp-l-caption-alignCenter">
                                     <div class="cbp-l-caption-body">
                                         
                                         <a href="#" class="cbp-l-caption-buttonLeft" target="_blank">Learn More</a>
-                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Clouded-Leopard.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Clouded Leopard<br>">view larger</a>
+                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Clouded-Leopard.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Clouded Leopard<br>">view larger</a>
                                     </div>
                                 </div>
                             </div>
@@ -270,14 +270,14 @@ get_header(); ?>
                     <div class="cbp-item lesser">
                         <div class="cbp-caption">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Fishing-Cat.jpg" alt="Fishing Cat">
+                                <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Fishing-Cat.jpg" alt="Fishing Cat">
                             </div>
                             <div class="cbp-caption-activeWrap">
                                 <div class="cbp-l-caption-alignCenter">
                                     <div class="cbp-l-caption-body">
                                         
                                         <a href="#" class="cbp-l-caption-buttonLeft" target="_blank">Learn More</a>
-                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Fishing-Cat.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Fishing Cat<br>">view larger</a>
+                                        <a href="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Fishing-Cat.jpg" class="cbp-lightbox cbp-l-caption-buttonRight" data-title="Fishing Cat<br>">view larger</a>
                                     </div>
                                 </div>
                             </div>

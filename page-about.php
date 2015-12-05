@@ -89,7 +89,7 @@ get_header(); ?>
                     
                 </div>
                 <div class="col-md-6">
-                    <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/about.jpg" class="img-responsive" alt="New York">
+                    <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/about.jpg" class="img-responsive" alt="New York">
                 </div>
             </div><!--about intro-->
 
@@ -110,7 +110,7 @@ get_header(); ?>
            <div class="row">
                 <div class="col-md-3 margin20">
                     <div class="team-wrap">
-                        <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Carole-Baskin.jpg" class="img-responsive" alt="">
+                        <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Carole-Baskin.jpg" class="img-responsive" alt="">
                         <h4>Carole Baskin</h4>
                         <span>FOUNDER/ CEO</span>
                         <p>
@@ -140,7 +140,7 @@ get_header(); ?>
                 </div><!--team col-->
                 <div class="col-md-3 margin20">
                     <div class="team-wrap">
-                        <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Howard-Baskin.jpg" class="img-responsive" alt="">
+                        <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Howard-Baskin.jpg" class="img-responsive" alt="">
                         <h4>Howard Baskin</h4>
                         <span>CHIEF FINANCIAL OFFICER</span>
                         <p>
@@ -174,7 +174,7 @@ get_header(); ?>
                 </div><!--team col-->
                 <div class="col-md-3 margin20">
                     <div class="team-wrap">
-                        <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Susan-Bass.jpg" class="img-responsive" alt="">
+                        <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Susan-Bass.jpg" class="img-responsive" alt="">
                         <h4>Susan Bass</h4>
                         <span>PUBLIC RELATIONS</span>
                         <p>
@@ -207,7 +207,7 @@ get_header(); ?>
                 </div><!--team col-->
                 <div class="col-md-3 margin20">
                     <div class="team-wrap">
-                        <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Jamie-Veronica-Boorstein.jpg" class="img-responsive" alt="">
+                        <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Jamie-Veronica-Boorstein.jpg" class="img-responsive" alt="">
                         <h4>Jamie Veronica Boorstein</h4>
                         <span>PRESIDENT</span>
                         <p>

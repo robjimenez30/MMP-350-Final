@@ -24,7 +24,7 @@ get_header(); ?>
                 <!-- SLIDE -->
                     <li data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Get Involved">
                         <!-- MAIN IMAGE -->
-                        <img src="img/bg-1.jpg"  alt="Macbook"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/bg-1.jpg"  alt="Macbook"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                         <!-- LAYER NR. 1 -->
                         <div class="caption left-tile-text sfr tp-resizeme"
                              data-x="40"
@@ -129,7 +129,7 @@ get_header(); ?>
                     <!-- SLIDE -->
                     <li data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Tiger">
                         <!-- MAIN IMAGE -->
-                        <img src="img/bg-2.jpg"  alt="Big Cat"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/bg-2.jpg"  alt="Big Cat"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                         <div class="caption text-center-top sft"
                              data-x="center"
                              data-y="220"
@@ -152,7 +152,7 @@ get_header(); ?>
                     <!-- SLIDE -->
                     <li data-transition="fade" data-slotamount="5" data-masterspeed="1000" data-title="Help Us !">
                         <!-- MAIN IMAGE -->
-                        <img src="img/bg-3.jpg"  alt="Camera Lens"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/bg-3.jpg"  alt="Camera Lens"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
 
                         <div class="caption text-center-top sft"
                              data-x="center"
@@ -223,7 +223,7 @@ get_header(); ?>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a href="index.html"><img src="img/logo2.png" alt="Big Cat Rescue"></a>
+                    <a href="index.html"><img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/logo2.png" alt="Big Cat Rescue"></a>
                 </div><!-- navbar-header -->
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
@@ -280,7 +280,7 @@ get_header(); ?>
                     <div class="col-sm-8 col-sm-offset-2">
                         <div class="testi-slide">
 
-                        <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/big-cat-rescue-php/assets/img/Most-Important.png" alt="" >
+                        <img src="https://wpmmp.bmcc.cuny.edu/~rojimene/wp-content/themes/MMP-350-Final/assets/img/Most-Important.png" alt="" >
                         
                             <p>This bill called the Big Cats and Public Safety Protection Act is the most important piece of legislation to ever be introduced to protect lions, tigers and other exotic wild cats from being kept as pets and in miserable roadside zoos. It ended the 113th Congressional session with more than 120 co sponsors.  Now we are working to re introduce the bill in early 2015.</p>
                         </div><!--flex slider testimonials end here-->
