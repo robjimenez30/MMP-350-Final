@@ -17,65 +17,7 @@ get_header(); ?>
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
-			<!-- top bar -->
-        <div class="top-bar-light">            
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-5 hidden-xs">
-                        <div class="top-bar-socials">
-                            <a href="https://www.facebook.com/bigcatrescue?_rdr=p" target="_blank" class="social-icon-sm si-gray si-gray-round si-facebook">
-                                <i class="fa fa-facebook"></i>
-                                <i class="fa fa-facebook"></i>
-                            </a>
-                            <a href="https://twitter.com/bigcatrescue" target="_blank" class="social-icon-sm si-gray si-gray-round si-twitter">
-                                <i class="fa fa-twitter"></i>
-                                <i class="fa fa-twitter"></i>
-                            </a>
-                            <a href="https://plus.google.com/+bigcatrescue/posts" target="_blank" class="social-icon-sm si-gray si-gray-round si-g-plus">
-                                <i class="fa fa-google-plus"></i>
-                                <i class="fa fa-google-plus"></i>
-                            </a>
-                            <a href="https://www.instagram.com/bigcatrescue/" class="social-icon-sm si-gray si-gray-round si-instagram">
-                                <i class="fa fa-instagram"></i>
-                                <i class="fa fa-instagram"></i>
-                            </a>
-                        </div><!-- top-bar-socials -->
-                    </div><!-- col-sm-5 hidden-xs -->
-                    <div class="col-sm-7 text-right">
-                        <ul class="list-inline top-dark-right">                      
-                            <li class="hidden-sm hidden-xs"><i class="fa fa-envelope"></i> <a href="mailto:info@bigcatrescue.org">info@bigcatrescue.org</a></li>
-                            <li class="hidden-sm hidden-xs"><i class="fa fa-phone"></i><a href="tel:813-920-4130">(813)-920-4130</a></li>
-                        </ul>
-                    </div><!-- col-sm-7 text-right -->
-                </div><!-- row -->
-            </div><!-- container -->
-        </div><!--top-bar end here-->
-
-        <!--navigation -->
-        <!-- Static navbar -->
-        <div class="navbar navbar-inverse navbar-static-top yamm sticky" role="navigation">
-            <div class="container">
-            <!-- Logo -->
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a href="index.html"><img src="img/logo2.png" alt="Big Cat Rescue"></a>
-                </div><!-- navbar-header -->
-                <div class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav navbar-right">
-                        <li><a href="https://wpmmp.bmcc.cuny.edu/~rojimene/">Home</a></li> 
-                        <li><a href="https://wpmmp.bmcc.cuny.edu/~rojimene/about">About</a></li>
-                        <li><a href="https://wpmmp.bmcc.cuny.edu/~rojimene/photos-facts">Photos & Facts</a></li>
-                        <li><a href="https://wpmmp.bmcc.cuny.edu/~rojimene/contact">Contact</a></li>
-                        <li><a href="https://wpmmp.bmcc.cuny.edu/~rojimene/faq">FAQS</a></li>  
-                    </ul>
-                </div><!--/.nav-collapse -->
-            </div><!--container-->
-        </div><!--navbar-default-->
+			
 
         <div class="divide80"></div>
         <div class="container">

@@ -47,3 +47,22 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
+
+.entry-content{
+  color: orange;
+  text-align: center;
+  font-weight: 300;
+  margin: 0;
+  margin-bottom: 10px;
+  
+}
+
+.myPostTitle {
+	text-align: center;
+}
+
+
+
+
+
+
